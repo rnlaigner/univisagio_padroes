@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Vaadin-Widgetsets: com.example.myapplication.MyAppWidgetset
+Vaadin-Package-Version: 1
+Built-By: Rodrigo
+Build-Jdk: 1.8.0_72
+Created-By: Maven Integration for Eclipse
+
